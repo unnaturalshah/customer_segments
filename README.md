@@ -17,18 +17,25 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 For main sauce of files click on this [Udacity ML GitHub](https://github.com/udacity/machine-learning/tree/master/projects/customer_segments)
 
+
 ## **Why does this all matter?**
 
 This project provides hands-on experience with:
 > How to apply preprocessing techniques such as feature scaling and outlier detection.
+
 > How to interpret data points that have been scaled, transformed, or reduced from Principal Component Analysis (PCA).
+
 > How to analyze PCA dimensions and construct a new feature space.
+
 > How to optimally cluster a set of data to find hidden patterns in a dataset.
->How to assess information given by cluster data and use it in a meaningful way.
+
+> How to assess information given by cluster data and use it in a meaningful way.
+
 
 ## What is this visuals.py file?
 
 Your guess was as best as mine when I started this project so I won't share the secret just yet. No really, this was a supplementary file with the project. Peak inside customer_segments.ipny as to why this matters and here is the hint it imports supplementary visualizations. Please do not modify.
+
 
 ## FAQ
 
